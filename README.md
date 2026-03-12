@@ -1,23 +1,23 @@
-# 🛒 E-Commerce Simple App
+# E-Commerce Simple App
 
 A Flutter e-commerce UI app featuring a complete authentication flow — splash screen, sign in, registration, forgot password, reset password, and a home screen. Built with reusable widget components and custom local image assets.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🚀 **Splash Screen** — branded intro with 3-second auto-navigation
-- 🔐 **Sign In Screen** — email & password login with form layout
-- 📝 **Register Screen** — full registration form with Terms & Conditions checkbox
-- 🔑 **Forgot Password** — email-based password reset request flow
-- 🔄 **Reset Password** — new password + confirm password screen
-- ✅ **Login Again** — post-reset login confirmation screen
-- 🏠 **Home Screen** — base screen ready for product catalog expansion
-- ♻️ **Reusable Widget Components** — shared text, text field, and button widgets
+-  **Splash Screen** — branded intro with 3-second auto-navigation
+-  **Sign In Screen** — email & password login with form layout
+-  **Register Screen** — full registration form with Terms & Conditions checkbox
+-  **Forgot Password** — email-based password reset request flow
+-  **Reset Password** — new password + confirm password screen
+-  **Login Again** — post-reset login confirmation screen
+-  **Home Screen** — base screen ready for product catalog expansion
+-  **Reusable Widget Components** — shared text, text field, and button widgets
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Technology | Usage |
 |---|---|
@@ -29,7 +29,7 @@ A Flutter e-commerce UI app featuring a complete authentication flow — splash 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 lib/
@@ -58,7 +58,7 @@ lib/
 
 ---
 
-## 🔄 App Navigation Flow
+## App Navigation Flow
 
 ```
 Splash Screen (3s)
@@ -76,7 +76,7 @@ Splash Screen (3s)
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -88,7 +88,7 @@ Splash Screen (3s)
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ecommerce-simple-app.git
+   git clone https://github.com/maazkhan-tech/ecommerce-simple-app.git
    cd ecommerce-simple-app
    ```
 
@@ -104,7 +104,7 @@ Splash Screen (3s)
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 ```yaml
 dependencies:
@@ -117,7 +117,7 @@ dependencies:
 
 ---
 
-## 🧩 Reusable Components
+## Reusable Components
 
 | Widget | File | Description |
 |---|---|---|
@@ -127,7 +127,7 @@ dependencies:
 
 ---
 
-## 🎨 Design Highlights
+## Design Highlights
 
 - **Primary color:** Red (`Colors.red` / `Color.fromARGB(247, 216, 19, 19)`)
 - **Layout:** `SingleChildScrollView` for keyboard-safe scrollable screens
@@ -136,7 +136,7 @@ dependencies:
 
 ---
 
-## 📖 What I Learned
+## What I Learned
 
 - Building multi-screen Flutter apps with `Navigator.push` / `Navigator.pop`
 - Creating reusable widget classes to reduce code duplication
@@ -147,7 +147,7 @@ dependencies:
 
 ---
 
-## 🗺️ Roadmap / Future Improvements
+## Roadmap / Future Improvements
 
 - [ ] Connect to a real backend (Firebase / REST API)
 - [ ] Add form validation with error messages
@@ -158,7 +158,7 @@ dependencies:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to open an [issue](https://github.com/maazkhan-tech/ecommerce-simple-app/issues) or submit a pull request.
